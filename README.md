@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/iuripejara/iuripejara/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Stats</h2>
 
 ###
@@ -36,6 +32,12 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/iuripejara/count.svg?"  />
 </div>
 
 ###
